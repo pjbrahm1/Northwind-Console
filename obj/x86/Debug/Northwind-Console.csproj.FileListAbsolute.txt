@@ -1,0 +1,17 @@
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\NLog.config
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\Northwind-Console.exe.config
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\Northwind-Console.exe
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\Northwind-Console.pdb
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\EntityFramework.dll
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\NLog.dll
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\EntityFramework.xml
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\NLog.xml
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\obj\x86\Debug\Northwind-Console.csproj.CoreCompileInputs.cache
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\obj\x86\Debug\Northwind-Console.csproj.CopyComplete
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\obj\x86\Debug\Northwind-Console.exe
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\obj\x86\Debug\Northwind-Console.pdb
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\obj\x86\Debug\Northwind-Console.csprojAssemblyReference.cache
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\app.config
+C:\Users\jjbra\Downloads\WCTC\NetDBProgramming\Northwind-Console-master\Northwind-Console\bin\Debug\App.config.txt

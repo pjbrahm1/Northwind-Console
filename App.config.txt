@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <connectionStrings>
+        <add name="NorthwindContext" 
+            providerName="System.Data.SqlClient" 
+            connectionString="Server=bitsql.wctc.edu;Database=Northwind-NDB_19_PEB;User ID=xxxxxxxx;Password=000000000" />
+    </connectionStrings>
+</configuration>

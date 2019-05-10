@@ -1,0 +1,163 @@
+2019-05-10 08:44:04.2550|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 08:44:05.8744|INFO|NorthwindConsole.MainClass|Display choice: 1 selected
+2019-05-10 08:44:06.2471|INFO|NorthwindConsole.MainClass|49 active records returned
+2019-05-10 08:44:09.4261|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 08:44:10.0270|INFO|NorthwindConsole.MainClass|Display choice: 2 selected
+2019-05-10 08:44:10.0654|INFO|NorthwindConsole.MainClass|61 discontinued records returned
+2019-05-10 08:44:11.8176|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 08:44:13.4268|INFO|NorthwindConsole.MainClass|Display choice: 3 selected
+2019-05-10 08:44:13.5032|INFO|NorthwindConsole.MainClass|110 total records returned
+2019-05-10 08:44:36.7321|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 08:44:40.5204|INFO|NorthwindConsole.MainClass|Display choice: 2 selected
+2019-05-10 08:44:40.5673|INFO|NorthwindConsole.MainClass|61 discontinued records returned
+2019-05-10 08:44:44.9729|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 08:44:45.9521|INFO|NorthwindConsole.MainClass|Display choice: 3 selected
+2019-05-10 08:44:46.0195|INFO|NorthwindConsole.MainClass|110 total records returned
+2019-05-10 08:44:47.8293|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 08:44:48.9914|INFO|NorthwindConsole.MainClass|Display choice: 4 selected
+2019-05-10 08:44:51.7018|INFO|NorthwindConsole.MainClass|Product (id: 56) displayed
+2019-05-10 08:44:56.8373|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-05-10 08:45:10.0624|INFO|NorthwindConsole.MainClass|CategoryId 36 TestThis selected
+2019-05-10 08:45:22.1069|INFO|NorthwindConsole.MainClass|Validation passed
+2019-05-10 08:45:22.1410|INFO|NorthwindConsole.MainClass|Product added - "FinalFinalTest"
+2019-05-10 08:45:31.8647|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 08:45:39.6964|INFO|NorthwindConsole.MainClass|Invalid Price
+2019-05-10 08:45:44.3842|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 08:45:55.0834|INFO|NorthwindConsole.MainClass|Product (id: 129) updated
+2019-05-10 08:45:59.7976|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 08:46:13.1887|INFO|NorthwindConsole.MainClass|Invalid Units In Stock
+2019-05-10 08:46:20.0065|INFO|NorthwindConsole.MainClass|Option 4 selected
+2019-05-10 08:46:27.4846|INFO|NorthwindConsole.MainClass|Product (id: 124) deleted
+2019-05-10 08:46:37.0367|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 08:46:40.6655|INFO|NorthwindConsole.MainClass|Display choice: 4 selected
+2019-05-10 08:46:42.2784|ERROR|NorthwindConsole.MainClass|Invalid Product Id
+2019-05-10 08:46:55.5342|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 08:46:56.7148|INFO|NorthwindConsole.MainClass|Display choice: 1 selected
+2019-05-10 08:46:56.7340|INFO|NorthwindConsole.MainClass|8 records returned
+2019-05-10 08:46:59.3585|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 08:47:00.3173|INFO|NorthwindConsole.MainClass|Display choice: 2 selected
+2019-05-10 08:47:03.9319|INFO|NorthwindConsole.MainClass|CategoryId 22 selected
+2019-05-10 08:47:03.9688|INFO|NorthwindConsole.MainClass|55 products returned
+2019-05-10 08:47:09.0014|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 08:47:12.1178|INFO|NorthwindConsole.MainClass|Display choice: 2 selected
+2019-05-10 08:47:13.4261|INFO|NorthwindConsole.MainClass|CategoryId 8 selected
+2019-05-10 08:47:13.4414|INFO|NorthwindConsole.MainClass|5 products returned
+2019-05-10 08:47:17.1862|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 08:47:18.4424|INFO|NorthwindConsole.MainClass|Display choice: 3 selected
+2019-05-10 08:47:18.4966|INFO|NorthwindConsole.MainClass|102 total products returned
+2019-05-10 08:47:24.3608|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-05-10 08:47:28.8588|ERROR|NorthwindConsole.MainClass|CategoryName : Category Name is Required
+2019-05-10 08:47:45.1521|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-05-10 08:47:47.2685|ERROR|NorthwindConsole.MainClass|Input string was not in a correct format.
+2019-05-10 08:47:47.2775|INFO|NorthwindConsole.MainClass|Program ended
+2019-05-10 08:52:00.2085|INFO|NorthwindConsole.MainClass|Program started
+2019-05-10 08:52:05.6417|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-05-10 08:52:07.5787|INFO|NorthwindConsole.MainClass|Invalid Category ID
+2019-05-10 08:52:13.6935|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-05-10 08:52:15.0747|INFO|NorthwindConsole.MainClass|CategoryId 36 selected
+2019-05-10 08:52:27.3797|ERROR|NorthwindConsole.MainClass|CategoryName : Category Name is Required
+2019-05-10 08:53:02.7158|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 08:53:36.4814|INFO|NorthwindConsole.MainClass|Product (id: 100) updated
+2019-05-10 08:53:41.9387|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 08:53:45.8165|INFO|NorthwindConsole.MainClass|Display choice: 4 selected
+2019-05-10 08:53:46.9991|INFO|NorthwindConsole.MainClass|Product (id: 100) displayed
+2019-05-10 08:57:41.0708|INFO|NorthwindConsole.MainClass|Program started
+2019-05-10 08:57:44.0001|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-05-10 08:57:46.6919|INFO|NorthwindConsole.MainClass|Invalid Category ID
+2019-05-10 08:57:51.2299|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-05-10 08:57:52.6884|INFO|NorthwindConsole.MainClass|CategoryId 9 selected
+2019-05-10 08:57:52.6979|ERROR|NorthwindConsole.MainClass|Object reference not set to an instance of an object.
+2019-05-10 08:57:52.6979|INFO|NorthwindConsole.MainClass|Program ended
+2019-05-10 09:00:18.2770|INFO|NorthwindConsole.MainClass|Program started
+2019-05-10 09:00:20.9092|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-05-10 09:00:22.8617|ERROR|NorthwindConsole.MainClass|Object reference not set to an instance of an object.
+2019-05-10 09:00:22.8667|INFO|NorthwindConsole.MainClass|Program ended
+2019-05-10 09:01:01.4594|INFO|NorthwindConsole.MainClass|Program started
+2019-05-10 09:01:04.6499|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-05-10 09:01:15.3470|INFO|NorthwindConsole.MainClass|Category (id: 8) updated
+2019-05-10 09:01:20.0427|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 09:01:22.0482|INFO|NorthwindConsole.MainClass|Display choice: 2 selected
+2019-05-10 09:01:23.7625|INFO|NorthwindConsole.MainClass|CategoryId 8 selected
+2019-05-10 09:01:23.8030|INFO|NorthwindConsole.MainClass|5 products returned
+2019-05-10 09:01:28.1536|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-05-10 09:01:32.5520|ERROR|NorthwindConsole.MainClass|Object reference not set to an instance of an object.
+2019-05-10 09:01:32.5610|INFO|NorthwindConsole.MainClass|Program ended
+2019-05-10 09:03:18.3880|INFO|NorthwindConsole.MainClass|Program started
+2019-05-10 09:03:22.2517|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-05-10 09:03:26.0477|INFO|NorthwindConsole.MainClass|Category (id: 8) updated
+2019-05-10 09:03:31.8893|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-05-10 09:03:32.8878|INFO|NorthwindConsole.MainClass|Category not Found
+2019-05-10 09:03:42.4106|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-05-10 09:03:46.5132|ERROR|NorthwindConsole.MainClass|CategoryId 0 selected
+2019-05-10 09:03:48.5305|ERROR|NorthwindConsole.MainClass|CategoryId 0 selected
+2019-05-10 09:03:50.6883|ERROR|NorthwindConsole.MainClass|CategoryId 0 selected
+2019-05-10 09:03:53.2851|INFO|NorthwindConsole.MainClass|CategoryId 36 TestThis selected
+2019-05-10 09:05:43.2976|INFO|NorthwindConsole.MainClass|Program started
+2019-05-10 09:05:49.2833|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 09:05:51.1138|INFO|NorthwindConsole.MainClass|Display choice: 3 selected
+2019-05-10 09:05:51.5334|INFO|NorthwindConsole.MainClass|103 total products returned
+2019-05-10 09:05:59.4976|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 09:06:12.2072|ERROR|NorthwindConsole.MainClass|Invalid Product Id
+2019-05-10 09:06:19.6178|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-05-10 09:06:21.9762|INFO|NorthwindConsole.MainClass|CategoryId 36 TestThis selected
+2019-05-10 09:06:24.4508|INFO|NorthwindConsole.MainClass|Category (id: 36) deleted
+2019-05-10 09:06:35.4364|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 09:06:39.4710|INFO|NorthwindConsole.MainClass|Display choice: 2 selected
+2019-05-10 09:06:40.9570|INFO|NorthwindConsole.MainClass|CategoryId 22 selected
+2019-05-10 09:06:40.9979|INFO|NorthwindConsole.MainClass|57 products returned
+2019-05-10 09:07:01.3463|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 09:07:03.3223|INFO|NorthwindConsole.MainClass|Display choice: 3 selected
+2019-05-10 09:07:03.3886|INFO|NorthwindConsole.MainClass|110 total records returned
+2019-05-10 09:12:01.2036|INFO|NorthwindConsole.MainClass|Program started
+2019-05-10 09:12:08.4030|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 09:12:10.8500|INFO|NorthwindConsole.MainClass|Display choice: 2 selected
+2019-05-10 09:12:11.2756|INFO|NorthwindConsole.MainClass|61 discontinued records returned
+2019-05-10 09:12:16.5064|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 09:12:52.5207|INFO|NorthwindConsole.MainClass|Product (id: 128) updated
+2019-05-10 09:13:10.7162|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-05-10 09:13:11.4443|INFO|NorthwindConsole.MainClass|Display choice: 4 selected
+2019-05-10 09:13:12.4878|INFO|NorthwindConsole.MainClass|Product (id: 128) displayed
+2019-05-10 09:13:53.0132|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 09:14:31.9711|INFO|NorthwindConsole.MainClass|Product (id: 126) updated
+2019-05-10 09:14:54.1028|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 09:14:56.9445|INFO|NorthwindConsole.MainClass|Display choice: 2 selected
+2019-05-10 09:14:59.3041|INFO|NorthwindConsole.MainClass|CategoryId 35 selected
+2019-05-10 09:14:59.3270|INFO|NorthwindConsole.MainClass|5 products returned
+2019-05-10 09:15:15.4139|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 09:15:39.1292|INFO|NorthwindConsole.MainClass|Product (id: 127) updated
+2019-05-10 09:15:50.8279|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 09:15:53.8219|INFO|NorthwindConsole.MainClass|Display choice: 1 selected
+2019-05-10 09:15:53.8440|INFO|NorthwindConsole.MainClass|7 records returned
+2019-05-10 09:15:55.8104|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 09:15:57.4236|INFO|NorthwindConsole.MainClass|Display choice: 2 selected
+2019-05-10 09:15:59.4053|INFO|NorthwindConsole.MainClass|CategoryId 35 selected
+2019-05-10 09:15:59.4205|INFO|NorthwindConsole.MainClass|6 products returned
+2019-05-10 09:16:11.2348|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-05-10 09:16:27.0471|ERROR|NorthwindConsole.MainClass|CategoryName : The field CategoryName must be a string with a maximum length of 15.
+2019-05-10 09:16:33.3129|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-05-10 09:16:38.8211|INFO|NorthwindConsole.MainClass|Validation passed
+2019-05-10 09:16:38.8385|INFO|NorthwindConsole.MainClass|Category added - "final test"
+2019-05-10 09:16:46.2136|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 09:17:06.6432|INFO|NorthwindConsole.MainClass|Invalid Price
+2019-05-10 09:17:09.4633|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 09:17:24.4288|INFO|NorthwindConsole.MainClass|Product (id: 125) updated
+2019-05-10 09:17:43.2287|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 09:18:00.6929|INFO|NorthwindConsole.MainClass|Product (id: 128) updated
+2019-05-10 09:18:07.0817|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-05-10 09:18:24.1478|INFO|NorthwindConsole.MainClass|Product (id: 129) updated
+2019-05-10 09:18:31.2833|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-05-10 09:18:33.2129|INFO|NorthwindConsole.MainClass|Display choice: 2 selected
+2019-05-10 09:18:36.2533|INFO|NorthwindConsole.MainClass|CategoryId 38 selected
+2019-05-10 09:18:36.2682|INFO|NorthwindConsole.MainClass|3 products returned
+2019-05-10 09:30:51.5446|INFO|NorthwindConsole.MainClass|Program started
+2019-05-10 09:30:55.6703|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-05-10 09:31:03.2619|INFO|NorthwindConsole.MainClass|CategoryId 38 selected
+2019-05-10 09:31:03.2619|INFO|NorthwindConsole.MainClass|CategoryId 38 final test selected
+2019-05-10 09:31:21.9227|INFO|NorthwindConsole.MainClass|Category (id: 38) deleted
+2019-05-10 09:34:10.7151|INFO|NorthwindConsole.MainClass|Program started
+2019-05-10 09:34:17.9186|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-05-10 09:34:19.7999|INFO|NorthwindConsole.MainClass|Category not Found
+2019-05-10 09:34:25.4617|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-05-10 09:34:26.5949|INFO|NorthwindConsole.MainClass|Invalid Category ID
+2019-05-10 09:34:27.9995|INFO|NorthwindConsole.MainClass|Option  selected
+2019-05-10 09:34:28.0095|INFO|NorthwindConsole.MainClass|Invalid choice made: 
